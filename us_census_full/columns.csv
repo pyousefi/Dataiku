@@ -1,0 +1,45 @@
+0,age
+1,class of worker
+2,industry code
+3,occupation code
+4,education
+5,wage per hour
+6,enrolled in edu inst last wk
+7,marital status
+8,major industry code
+9,major occupation code
+10,mace
+11,hispanic Origin
+12,sex
+13,member of a labor union
+14,reason for unemployment
+15,full or part time employment stat
+16,capital gains
+17,capital losses
+18,divdends from stocks
+19,federal income tax liability
+20,tax filer status
+21,region of previous residence
+22,state of previous residence
+23,detailed household and family stat
+24,detailed household summary in household
+25,instance weight
+26,migration code-change in msa
+27,migration code-change in reg
+28,migration code-move within reg
+29,live in this house 1 year ago
+30,migration prev res in sunbelt
+31,num persons worked for employer
+32,family members under 18
+33,total person earnings
+34,country of birth father
+35,country of birth mother
+36,country of birth self
+37,citizenship
+38,total person income
+39,own business or self employed
+40,taxable income amount
+41,fill inc questionnaire for veteran's admin
+42,veterans benefits
+43,weeks worked in year
+44,adjusted gross income
