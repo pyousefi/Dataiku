@@ -21,7 +21,7 @@ Ideally, you’ll work with R or Python to carry out the following steps:
 - This audit should describe the variable distribution, the % of missing values, the extreme values, and so on.
 - Create a model using these variables (you can use whichever variables you want, or even create you own; for example, you could find the ratio or relationship between different variables, the binarisation of “categorical” variables, etc.) to modelize wining more or less than $50,000 / year. Here, the idea would be for you to test one or two algorithms, type regression logistics, or a decision tree. But, you are free to choose others if you’d rather.
 - Choose the model that appears to have the highest performance based on a comparison between reality (the 42nd variable) and the model’s prediction.
-- Apply your model to the test file and measure it’s real perforBased on the learning filemance on it (same method as above).
+- Apply your model to the test file and measure it’s real performance on it (same method as above).
 
 
 The goal of this exercise is not to create the best or the purest model, but rather to describe the steps you’ll take to accomplish it.
